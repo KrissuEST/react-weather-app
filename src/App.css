@@ -33,6 +33,7 @@ body {
   color: #000;
 }
 
+/* Using here BEM naming methodology. */
 .title-container__title {
   font-size: 50px;
   letter-spacing: 2px;
@@ -69,7 +70,7 @@ input[type="text"] {
   font-size: 20px;
 }
 
-input[type="text"] { 
+input[type="text"] {
     outline: none;
 }
 
@@ -106,7 +107,7 @@ button:active {
 .weather__key {
   color: #f16051;
   border-bottom: solid 2px rgba(255,255,255,0.06);
-  padding: 20px 0 20px 0;
+  padding: 15px 0 15px 0;
   font-weight: 400;
 }
 
