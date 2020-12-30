@@ -15,9 +15,3 @@ Siis minna terminaliga projekti kausta ja teha käsk: **npm install** <br>
 Peale seda käivitada rakendus käsuga: **npm start**
 
 Rakendust saab jooksutada erinevates veebilehitsejates aadressil: http://localhost:3000
-
-### Kulunud töö aeg
-5h
-
-### Litsents
-Kristjan Tõnismäe
